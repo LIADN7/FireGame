@@ -19,6 +19,8 @@ Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
 
+Artist:
+* Akira Toriyama
 
 
 
